@@ -1,11 +1,12 @@
 
 # Exp 3 Experimental Verification of IV Characteristics of LED and LASER
-# Fiber Optic LED Characteristics and Photo Detector Response
+## Fiber Optic LED Characteristics and Photo Detector Response
 
 ## 🎯 AIM
+---
 To study the characteristics of fiber optic LED and plot the graph of forward current versus optical power, and to study the photo detector response.
 
----
+
 
 ## 🧰 EQUIPMENTS REQUIRED
 	Link-B Kit with power supply.
@@ -17,10 +18,9 @@ To study the characteristics of fiber optic LED and plot the graph of forward cu
 	Jumper to Crocodile wires.
   
 
----
 
 ## 📚 THEORY
-
+---
 In optical fiber communication system, electrical signal is first converted into optical signal with the help of E / O conversion device as LED. After this optical signal is transmitted through optical fiber, it is retrieved in its original electrical form with the help O / E conversion device as photo detector.
 
 
@@ -32,10 +32,8 @@ LED’s and LASER diodes are the commonly used sources in optical communication 
 LED's have a linear optical output with relation to the forward current over a certain region of operation. Numerical aperture refers to the maximum angle at the light incident on the fiber end is totally internally reflected and is transmitted properly along the Fiber. The cone formed by the rotations of this angle along the axis of the Fiber is the cone of acceptance of the Fiber. The light ray should strike the fiber end within its cone of acceptance; else it is refracted out of the fiber core.
 
 
----
-
 ## 🧪 PROCEDURE
-
+---
 	Refer to the block diagram and make the following connections.
 	Keep all switch faults in OFF position.
 	Slightly unscrew the cap of LED SFH756V (660nm). Do not remove the cap from the connector. Once the cap is loosened, insert the 1-meter fiber into the cap. Now tighten the cap by screwing it back.
@@ -56,31 +54,36 @@ V. This is the electrical power supplied to the LED. Data sheets for the LED spe
 •	Perform the above procedure again for all the combinations of Transmitter & Receiver.
 
 
----
 
 ## 🔌 BLOCK DIAGRAM
-
+---
 <img width="1135" height="715" alt="image" src="https://github.com/user-attachments/assets/ee34ea62-0c00-461a-9486-92f22eb0efec" />
 
----
+
 
 ## 📊 TABULATION
-
-### LED Forward Characteristics
-
-| Forward Voltage Vf (V) | Forward Current If (mA) |
-|------------------------|-------------------------|
-|                        |                         |
-|                        |                         |
-|                        |                         |
-
 ---
+
+**LED FORWARD CHARACTERISTICS**
+<img width="1600" height="1174" alt="image" src="https://github.com/user-attachments/assets/540d3631-2331-4c90-b82c-df0903fe1235" />
+
+**LASER FORWARD CHARACTERISTICS**
+<img width="1486" height="1118" alt="image" src="https://github.com/user-attachments/assets/d1081eec-0761-4cac-ad7e-a09b4b6d00d2" />
+
+
 
 ## 📈 MODEL GRAPH
-*(Insert graph of Vf vs If here)*
-
 ---
 
+**LED FORWARD CHARACTERISTICS**
+<img width="1175" height="1600" alt="image" src="https://github.com/user-attachments/assets/70d4bc97-8655-436f-8df6-de89e368932f" />
+<BR><BR>
+**LASER FORWARD CHARACTERISTICS**
+<img width="1175" height="1600" alt="image" src="https://github.com/user-attachments/assets/fd81b50e-821f-4191-873e-da4bcc7d8276" />
+
+
+
 ## ✅ RESULT
+---
 - The forward voltage and current characteristics of the fiber optic LED were successfully studied.
 - The photo detector response was observed and analyzed.
