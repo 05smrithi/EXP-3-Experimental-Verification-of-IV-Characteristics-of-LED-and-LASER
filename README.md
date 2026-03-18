@@ -79,7 +79,8 @@ V. This is the electrical power supplied to the LED. Data sheets for the LED spe
 <img width="1175" height="1600" alt="image" src="https://github.com/user-attachments/assets/70d4bc97-8655-436f-8df6-de89e368932f" />
 <BR><BR>
 **LASER FORWARD CHARACTERISTICS**
-<img width="1175" height="1600" alt="image" src="https://github.com/user-attachments/assets/fd81b50e-821f-4191-873e-da4bcc7d8276" />
+<img width="1189" height="1599" alt="image" src="https://github.com/user-attachments/assets/618e80f7-8cb2-4de2-b47b-71a21ef50225" />
+
 
 
 
